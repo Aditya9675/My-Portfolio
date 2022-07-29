@@ -162,9 +162,10 @@ button:active{
 	height: 40px;
 	color:#ffffff;
 	outline:none;
+	font-size: 1rem;
 	border:none;
 	font-family: calibri;
-	background-color:#262525;
+	background-color:#e7e5e5;
 }
 .services{
 	height:600px;
